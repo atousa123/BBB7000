@@ -1,0 +1,28 @@
+---
+title: "Merge visit"
+author: "Atousa"
+date: "28/07/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# BBB7000
+## Background
+Megan and I visited Merge fashion retail shop on Tuesday July 28.
+We discussed Anna the owner of Merge fashion. She is active for around 13 years to sell cloths to women. She imports most of her products from China and some from Australia and other sources. She created and designed her unique brand by customizing the cloths to the Aussies sizes and local women’s desires to meet their requirements by offering cost effective and affordable prices. She tried to renew the fashion weekly to meet the multicultural Australian customers’ requirements, specially the buyers from Footscary area and the connected and close suburbs. She supplies variety of unique products in quality and price for different cultures, ages, sizes and religions. 
+This unique shop is located in the high traffic Footscray mall area with the facility of 2 hours’ free car parks around. Easy to access and attracts people when shopping around and passing through the mall. 
+Anna claimed that she created a high revenue before this outbreak and had her loyal customers who come from around Melbourne to just buy her products. Following the Covid-19 pandemic, she faced a 75% loss in profit and is not able to afford her life and business expenses even after earning 25% discount from the landlord for her 4 years lease contract. 
+## Objective
+Increase revenue according to the current situation through a market research 
+Recommend appropriate offline and online marketing strategies to promote her products
+## Market research
+### Competitors
+### Customers
+###b Suppliers 
+### Intermediaries 
+## Marketing recommendation
+### Offline:
+### online:
+
